@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Pixelify+Sans:wght@400..700&display=swap');
+body{
+    background-color:#FFF7E4;
+}
+
+h1{
+background-image: url(/images/kelpforest.png);
+border-color:#DADDA6;
+border-style: solid;
+border-width: 10px;
+stroke:5px;
+display:flex;
+text-align: center;
+padding:300px;
+margin:5%;
+font-family:'Crimson Pro';
+font-size: 58px;
+color: antiquewhite;
+}
+
+.arrow1{
+    display:flex;
+    position:absolute;
+    top:80%;
+    right: -2%
+}
